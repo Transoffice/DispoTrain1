@@ -22,11 +22,28 @@ html, body {
     margin: 0;
     overflow: hidden;  
     border: solid 2px red;
+    display: block;
 }
 
 
 
-section  {
+#SectionTop  {
      
-    border: solid 2px blue;
+    border: solid 4px blue;
+     float: left;
 }
+
+
+#SectionLeft  {
+     
+    border: solid 4px green;
+    float: left;
+}
+
+
+#SectionBottom  {
+     
+    border: solid 4px black;
+     float: left;
+}
+
